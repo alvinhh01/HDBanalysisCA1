@@ -62,7 +62,7 @@ Include a cover page, a slide with dataset URLs, slides explaining each dataset,
 
 
 
-**Chart 4 - histogram for storey ranges - justification as to why I did not include it in the regression model (dataset 3)**
+**Chart 4 - histogram for storey ranges - justification as to why I did not include storey range in the regression model (dataset 3)**
 
 ![image](https://github.com/user-attachments/assets/087c19a5-780f-4e81-81c0-c37589e5ee10)
 
