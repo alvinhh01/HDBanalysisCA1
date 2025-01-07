@@ -1,4 +1,5 @@
-# Highlighted Projects**Singapore Polytechnic Specialist Diploma in data science and artifical intelligence (HDB analysis)**
+# *Singapore Polytechnic Specialist Diploma in data science and artifical intelligence (HDB analysis)**
+**Please refer to the jupyter notebook for more details about the code**
 
 ## Highlighted Projects**Summary of Assignment Requirements:**
 **Datasets:** 
