@@ -1,6 +1,6 @@
-**Singapore Polytechnic Specialist Diploma in data science and artifical intelligence (HDB analysis)**
+# Highlighted Projects**Singapore Polytechnic Specialist Diploma in data science and artifical intelligence (HDB analysis)**
 
-**Summary of Assignment Requirements:**
+## Highlighted Projects**Summary of Assignment Requirements:**
 **Datasets:** 
 You need to use at least 3 datasets from HDB, accessible via data.gov.sg.
 
@@ -8,7 +8,7 @@ You need to use at least 3 datasets from HDB, accessible via data.gov.sg.
 **Use Numpy** to extract useful statistical information from the datasets **(no pandas allowed)**.
 Use Matplotlib to create at least four types of graphs (bar chart, line chart, pie chart, histogram, scatterplot, boxplot, etc.).
 
-**PowerPoint Presentation:**
+## Highlighted Projects**PowerPoint Presentation:**
 Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained.
 
 
