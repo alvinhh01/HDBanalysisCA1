@@ -5,7 +5,7 @@
 You need to use at least 3 datasets from HDB, accessible via data.gov.sg.
 
 **Data Analysis:**
-Use Numpy to extract useful statistical information from the datasets (no pandas allowed).
+**Use Numpy** to extract useful statistical information from the datasets **(no pandas allowed)**.
 Use Matplotlib to create at least four types of graphs (bar chart, line chart, pie chart, histogram, scatterplot, boxplot, etc.).
 
 **PowerPoint Presentation:**
