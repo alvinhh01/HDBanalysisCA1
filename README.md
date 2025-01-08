@@ -70,9 +70,12 @@ Include a cover page, a slide with dataset URLs, slides explaining each dataset,
 
 **Chart 5 - bar chart linear regression coefficients (dataset 3)**
 
-![image](https://github.com/user-attachments/assets/b565f1b4-8805-4672-9e9c-94dea41549a8)
+![image](https://github.com/user-attachments/assets/9cdf49e6-185f-4e3e-90b9-864e260c574a)
+
 
 
 
 **Chart 6 - bar chart regression model prediction and mean absolute error (dataset 3)**
-![image](https://github.com/user-attachments/assets/bb6d598d-9002-41b3-9cfe-7793ec7d2014)
+![image](https://github.com/user-attachments/assets/cb5304ed-22a7-4980-ad66-4f2bd275649b)
+![image](https://github.com/user-attachments/assets/8cc0ea36-e23a-41e3-9070-74c66b0c1634)
+
