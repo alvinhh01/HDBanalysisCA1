@@ -6,7 +6,7 @@
 You need to use at least 3 datasets from HDB, accessible via data.gov.sg.
 
 **Data Analysis:**
-**The objective is to accurately predict categorical outcomes based on input features using algorithms such as logistic regression, decision trees etc. Key metrics such as accuracy, precision, recall, and F1-score were used for performance evaluation.**.
+The objective is to accurately predict categorical outcomes based on input features using algorithms such as logistic regression, decision trees etc. Key metrics such as accuracy, precision, recall, and F1-score were used for performance evaluation.
 Use Matplotlib to create at least four types of graphs (bar chart, line chart, pie chart, histogram, scatterplot, boxplot, etc.).
 
 ## **PowerPoint Presentation:**
