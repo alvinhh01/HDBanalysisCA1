@@ -6,11 +6,11 @@
 You need to use at least 3 datasets from HDB, accessible via data.gov.sg.
 
 **Data Analysis:**
-**Use Numpy** to extract useful statistical information from the datasets **(no pandas allowed)**.
+**he objective is to accurately predict categorical outcomes based on input features using algorithms such as logistic regression, decision trees etc. Key metrics such as accuracy, precision, recall, and F1-score were used for performance evaluation.**.
 Use Matplotlib to create at least four types of graphs (bar chart, line chart, pie chart, histogram, scatterplot, boxplot, etc.).
 
 ## **PowerPoint Presentation:**
-Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained.
+Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained. Students are required to present their findings to the lecturer.
 
 
 
